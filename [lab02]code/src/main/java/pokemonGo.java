@@ -6,6 +6,7 @@ public class pokemonGo {
 
     public static void main(String[] args){
         logger.info("CS-UTECd Software Engineering I");
+        logger.info("jaja miun no puede pushear");
     }
 
 
